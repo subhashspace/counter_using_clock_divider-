@@ -2,13 +2,13 @@
 # EXPERIMENT – 3.B 4- bit Up/Down Counter and MOD-10 Counter using Clock Divider in FPGA
 
 # Aim
-To design and simulate a 4-bit Up/Down Counter and MOD-10 Counter using Verilog HDL, and verify their functionality using a Clock Divider in FPGA (Vivado 2023.1).
+To design and simulate a 4-bit Up/Down Counter and MOD-10 Counter using Verilog HDL, and verify their functionality using a Clock Divider in FPGA (Vivado 2024.2).
 
 # Apparatus Required
-Vivado 2023.1
+Vivado 2024.2
 
 # Procedure
-Launch Vivado 2023.1
+Launch Vivado 2024.2
 Open Vivado and create a new RTL project.
 Design the Verilog Code
 Write the Verilog code for:
@@ -178,4 +178,4 @@ endmodule
 ![image](https://github.com/subhashspace/counter_using_clock_divider-/blob/main/clock_divider.png)
 
 # Conclusion
-The 4-bit Up/Down Counter and MOD-10 Counter were successfully designed using Verilog HDL and verified through simulation in Vivado 2023.1. The clock divider was used to generate a slower clock suitable for FPGA implementation. The waveform analysis confirmed correct counting sequences in both up/down and MOD-10 modes.
+The 4-bit Up/Down Counter and MOD-10 Counter were successfully designed using Verilog HDL and verified through simulation in Vivado 2024.2. The clock divider was used to generate a slower clock suitable for FPGA implementation. The waveform analysis confirmed correct counting sequences in both up/down and MOD-10 modes.
